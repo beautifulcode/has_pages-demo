@@ -1,8 +1,7 @@
 source 'https://rubygems.org'
 
 
-#gem 'has_pages', git: "https://github.com/beautifulcode/has_pages.git"
-gem 'has_pages', path: "~/projects/beautifulcode/has_pages"
+gem 'has_pages', git: "https://github.com/beautifulcode/has_pages.git"
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.2'

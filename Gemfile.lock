@@ -1,5 +1,6 @@
-PATH
-  remote: ~/projects/beautifulcode/has_pages
+GIT
+  remote: https://github.com/beautifulcode/has_pages.git
+  revision: f39465348664c9f790a766d0ff325b5ee5d22d01
   specs:
     has_pages (0.0.1)
       rails (~> 4.1)
